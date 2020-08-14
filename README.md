@@ -614,10 +614,10 @@ https://github.com/TP-Lab/tp-js-sdk
 </main>
 
 
-## TRON wallet quizzes
+<!-- ## TRON wallet quizzes -->
 
 
-<div class="ask-code">
+<!-- <div class="ask-code">
 <a href="https://ks.wjx.top/jq/82501428.aspx">https://ks.wjx.top/jq/82501428.aspx</a>
 
 </div>
@@ -630,7 +630,7 @@ https://github.com/TP-Lab/tp-js-sdk
 </div>
 <a target="_blank" href="https://help.mytokenpocket.vip/hc/zh-cn/sections/900000370926-TRON%E9%92%B1%E5%8C%85%E9%97%AE%E9%A2%98
 ">https://help.mytokenpocket.vip/hc/zh-cn/sections/900000370926-TRON%E9%92%B1%E5%8C%85%E9%97%AE%E9%A2%98
-</a>
+</a> -->
 
 ### Contact TRON
 
