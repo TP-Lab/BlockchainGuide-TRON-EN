@@ -21,8 +21,8 @@ Users can sign up free of charge with a Tron account,  a string of 34 letters an
 
 When creating an account, users will only have to set the wallet name and log-in password, and write down the private key. Simple as that. 
 
-**<font color=red>A new account needs to be activated before using. To activate a new account, the owner needs to transfer any number of TRX into it.
-</font>**
+**A new account needs to be activated before using. To activate a new account, the owner needs to transfer any number of TRX into it.
+**
 
 ![钱包类别 示意图](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1597392323714.png "钱包类别")
 <center>Tron wallet creation page in TokenPocket</center>
@@ -628,8 +628,8 @@ https://github.com/TP-Lab/tp-js-sdk
 <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1597390895476.png" width="250">
 
 </div>
-<a href="https://help.mytokenpocket.vip/hc/zh-cn/sections/360007395352-Tron-%E6%B3%A2%E5%9C%BA-%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98
-">https://help.mytokenpocket.vip/hc/zh-cn/sections/360007395352-Tron-%E6%B3%A2%E5%9C%BA-%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98
+<a target="_blank" href="https://help.mytokenpocket.vip/hc/zh-cn/sections/900000370926-TRON%E9%92%B1%E5%8C%85%E9%97%AE%E9%A2%98
+">https://help.mytokenpocket.vip/hc/zh-cn/sections/900000370926-TRON%E9%92%B1%E5%8C%85%E9%97%AE%E9%A2%98
 </a>
 
 ### Contact TRON
@@ -658,7 +658,7 @@ Medium: https://medium.com/tron-foundation
 
 ##### 2.With the consent of the author, non-profit quotations are allowed for the work, and it is necessary to indicate the source and author to show respect to the author's work.
 
-##### 3.Source: will be added upon releasing; author: TokenPocket.
+##### 3.Source: https://tp-lab.github.io/BlockchainGuide-TRON-EN/; author: TokenPocket.
 
 ##### 4.Reposting without permission is strictly prohibited. For illegal reposting, TokenPocket and the author/translator reserve the right to pursue legal actions.
 
